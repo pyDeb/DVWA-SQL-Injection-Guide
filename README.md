@@ -1,2 +1,2 @@
 # DVWA-SQL-Injection-Guide
-It an guide to install and perform SQL Injection on DVWA
+It a guide to install and perform SQL Injection on DVWA
